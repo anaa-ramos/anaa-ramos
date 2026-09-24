@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Sobre mim
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pelo **Programa Embarque Digital**.
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pelo **Programa Embarque Digital.**
 
 <h3>💻 Atualmente estudando</h3>
 
