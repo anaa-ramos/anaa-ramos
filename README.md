@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Meu nome é Ana</h1>
+<h1 align="center">Olá!  Meu nome é Ana👋</h1>
 
 <p align="center">
   <img src="./assets/jardim_github.gif" width="55%">
