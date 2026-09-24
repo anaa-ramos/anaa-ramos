@@ -8,7 +8,7 @@
 
 * 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pelo **Programa Embarque Digital**.
 
-### 💻 Atualmente aprendendo
+<h3>💻 Atualmente estudando</h3>
 
 **Java** • **POO** • **SQL** • **HTML** • **CSS** • **JavaScript**
 
